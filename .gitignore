@@ -1,0 +1,61 @@
+# Xcode
+#
+build/
+DerivedData/
+*.xcuserdatad
+*.xcscmblueprint
+*.xcworkspace
+*.xcuserstate
+xcuserdata/
+*.xcodeproj/*.xcuserdata/
+*.xcodeproj/*.xcworkspace/
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+
+# Swift Package Manager
+#
+.build/
+Package.resolved
+*.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/
+
+# CocoaPods
+#
+Pods/
+Podfile.lock
+
+# Carthage
+#
+Carthage/Build/
+
+# Archives
+#
+*.xcarchive
+
+# Symbolication
+#
+*.dSYM.zip
+*.dSYM
+
+# Playgrounds
+#
+timeline.xctimeline
+playground.xcworkspace
+
+# SwiftUI Previews
+#
+.swiftpm/xcode/package.pins
+.swiftpm/xcode/xcuserdata
+
+# User-specific files
+#
+*.moved-aside
+*.xcuserstate
+*.xccheckout
+*.xcactivitylog
+
+# Fastlane
+#
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output

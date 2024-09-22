@@ -1,8 +1,8 @@
 //
 //  CardView.swift
-//  Scrumdinger
+//  ScrumSync
 //
-//  Created by João Carlos Magalhães on 21/09/24.
+//  Created by John Carlos on 21/09/24.
 //
 
 import SwiftUI

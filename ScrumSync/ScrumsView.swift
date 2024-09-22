@@ -1,8 +1,8 @@
 //
 //  ScrumsView.swift
-//  Scrumdinger
+//  ScrumSync
 //
-//  Created by João Carlos Magalhães on 22/09/24.
+//  Created by John Carlos on 22/09/24.
 //
 
 import SwiftUI

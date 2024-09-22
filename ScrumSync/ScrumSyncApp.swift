@@ -1,14 +1,14 @@
 //
-//  ScrumdingerApp.swift
-//  Scrumdinger
+//  ScrumSyncApp.swift
+//  ScrumSyncApp
 //
-//  Created by João Carlos Magalhães on 21/09/24.
+//  Created by John Carlos on 21/09/24.
 //
 
 import SwiftUI
 
 @main
-struct ScrumdingerApp: App {
+struct ScrumSyncApp: App {
     var body: some Scene {
         WindowGroup {
             ScrumsView(scrums: DailyScrum.sampleData)

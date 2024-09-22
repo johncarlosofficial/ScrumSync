@@ -6,68 +6,63 @@
 	objectVersion = 77;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		DDE33C4B2CA0B74E007D17F2 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = DDE33C4A2CA0B74E007D17F2 /* README.md */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXContainerItemProxy section */
-		DDDD1B0B2C9F01B000AF8008 /* PBXContainerItemProxy */ = {
+		DDAAEF8B2CA0BAAB00D8C529 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = DDDD1AF22C9F01AD00AF8008 /* Project object */;
+			containerPortal = DDAAEF722CA0BAAA00D8C529 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = DDDD1AF92C9F01AD00AF8008;
-			remoteInfo = Scrumdinger;
+			remoteGlobalIDString = DDAAEF792CA0BAAA00D8C529;
+			remoteInfo = ScrumSync;
 		};
-		DDDD1B152C9F01B000AF8008 /* PBXContainerItemProxy */ = {
+		DDAAEF952CA0BAAB00D8C529 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = DDDD1AF22C9F01AD00AF8008 /* Project object */;
+			containerPortal = DDAAEF722CA0BAAA00D8C529 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = DDDD1AF92C9F01AD00AF8008;
-			remoteInfo = Scrumdinger;
+			remoteGlobalIDString = DDAAEF792CA0BAAA00D8C529;
+			remoteInfo = ScrumSync;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		DDDD1AFA2C9F01AD00AF8008 /* Scrumdinger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Scrumdinger.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		DDDD1B0A2C9F01B000AF8008 /* ScrumdingerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ScrumdingerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		DDDD1B142C9F01B000AF8008 /* ScrumdingerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ScrumdingerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		DDE33C4A2CA0B74E007D17F2 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		DDAAEF7A2CA0BAAA00D8C529 /* ScrumSync.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScrumSync.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DDAAEF8A2CA0BAAB00D8C529 /* ScrumSyncTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ScrumSyncTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		DDAAEF942CA0BAAB00D8C529 /* ScrumSyncUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ScrumSyncUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		DDDD1AFC2C9F01AD00AF8008 /* Scrumdinger */ = {
+		DDAAEF7C2CA0BAAA00D8C529 /* ScrumSync */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Scrumdinger;
+			path = ScrumSync;
 			sourceTree = "<group>";
 		};
-		DDDD1B0D2C9F01B000AF8008 /* ScrumdingerTests */ = {
+		DDAAEF8D2CA0BAAB00D8C529 /* ScrumSyncTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = ScrumdingerTests;
+			path = ScrumSyncTests;
 			sourceTree = "<group>";
 		};
-		DDDD1B172C9F01B000AF8008 /* ScrumdingerUITests */ = {
+		DDAAEF972CA0BAAB00D8C529 /* ScrumSyncUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = ScrumdingerUITests;
+			path = ScrumSyncUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		DDDD1AF72C9F01AD00AF8008 /* Frameworks */ = {
+		DDAAEF772CA0BAAA00D8C529 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		DDDD1B072C9F01B000AF8008 /* Frameworks */ = {
+		DDAAEF872CA0BAAB00D8C529 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		DDDD1B112C9F01B000AF8008 /* Frameworks */ = {
+		DDAAEF912CA0BAAB00D8C529 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -77,23 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		DDDD1AF12C9F01AD00AF8008 = {
+		DDAAEF712CA0BAAA00D8C529 = {
 			isa = PBXGroup;
 			children = (
-				DDE33C4A2CA0B74E007D17F2 /* README.md */,
-				DDDD1AFC2C9F01AD00AF8008 /* Scrumdinger */,
-				DDDD1B0D2C9F01B000AF8008 /* ScrumdingerTests */,
-				DDDD1B172C9F01B000AF8008 /* ScrumdingerUITests */,
-				DDDD1AFB2C9F01AD00AF8008 /* Products */,
+				DDAAEF7C2CA0BAAA00D8C529 /* ScrumSync */,
+				DDAAEF8D2CA0BAAB00D8C529 /* ScrumSyncTests */,
+				DDAAEF972CA0BAAB00D8C529 /* ScrumSyncUITests */,
+				DDAAEF7B2CA0BAAA00D8C529 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		DDDD1AFB2C9F01AD00AF8008 /* Products */ = {
+		DDAAEF7B2CA0BAAA00D8C529 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DDDD1AFA2C9F01AD00AF8008 /* Scrumdinger.app */,
-				DDDD1B0A2C9F01B000AF8008 /* ScrumdingerTests.xctest */,
-				DDDD1B142C9F01B000AF8008 /* ScrumdingerUITests.xctest */,
+				DDAAEF7A2CA0BAAA00D8C529 /* ScrumSync.app */,
+				DDAAEF8A2CA0BAAB00D8C529 /* ScrumSyncTests.xctest */,
+				DDAAEF942CA0BAAB00D8C529 /* ScrumSyncUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -101,135 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DDDD1AF92C9F01AD00AF8008 /* Scrumdinger */ = {
+		DDAAEF792CA0BAAA00D8C529 /* ScrumSync */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DDDD1B1E2C9F01B000AF8008 /* Build configuration list for PBXNativeTarget "Scrumdinger" */;
+			buildConfigurationList = DDAAEF9E2CA0BAAB00D8C529 /* Build configuration list for PBXNativeTarget "ScrumSync" */;
 			buildPhases = (
-				DDDD1AF62C9F01AD00AF8008 /* Sources */,
-				DDDD1AF72C9F01AD00AF8008 /* Frameworks */,
-				DDDD1AF82C9F01AD00AF8008 /* Resources */,
+				DDAAEF762CA0BAAA00D8C529 /* Sources */,
+				DDAAEF772CA0BAAA00D8C529 /* Frameworks */,
+				DDAAEF782CA0BAAA00D8C529 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				DDDD1AFC2C9F01AD00AF8008 /* Scrumdinger */,
+				DDAAEF7C2CA0BAAA00D8C529 /* ScrumSync */,
 			);
-			name = Scrumdinger;
+			name = ScrumSync;
 			packageProductDependencies = (
 			);
-			productName = Scrumdinger;
-			productReference = DDDD1AFA2C9F01AD00AF8008 /* Scrumdinger.app */;
+			productName = ScrumSync;
+			productReference = DDAAEF7A2CA0BAAA00D8C529 /* ScrumSync.app */;
 			productType = "com.apple.product-type.application";
 		};
-		DDDD1B092C9F01B000AF8008 /* ScrumdingerTests */ = {
+		DDAAEF892CA0BAAB00D8C529 /* ScrumSyncTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DDDD1B212C9F01B000AF8008 /* Build configuration list for PBXNativeTarget "ScrumdingerTests" */;
+			buildConfigurationList = DDAAEFA12CA0BAAB00D8C529 /* Build configuration list for PBXNativeTarget "ScrumSyncTests" */;
 			buildPhases = (
-				DDDD1B062C9F01B000AF8008 /* Sources */,
-				DDDD1B072C9F01B000AF8008 /* Frameworks */,
-				DDDD1B082C9F01B000AF8008 /* Resources */,
+				DDAAEF862CA0BAAB00D8C529 /* Sources */,
+				DDAAEF872CA0BAAB00D8C529 /* Frameworks */,
+				DDAAEF882CA0BAAB00D8C529 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				DDDD1B0C2C9F01B000AF8008 /* PBXTargetDependency */,
+				DDAAEF8C2CA0BAAB00D8C529 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				DDDD1B0D2C9F01B000AF8008 /* ScrumdingerTests */,
+				DDAAEF8D2CA0BAAB00D8C529 /* ScrumSyncTests */,
 			);
-			name = ScrumdingerTests;
+			name = ScrumSyncTests;
 			packageProductDependencies = (
 			);
-			productName = ScrumdingerTests;
-			productReference = DDDD1B0A2C9F01B000AF8008 /* ScrumdingerTests.xctest */;
+			productName = ScrumSyncTests;
+			productReference = DDAAEF8A2CA0BAAB00D8C529 /* ScrumSyncTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		DDDD1B132C9F01B000AF8008 /* ScrumdingerUITests */ = {
+		DDAAEF932CA0BAAB00D8C529 /* ScrumSyncUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DDDD1B242C9F01B000AF8008 /* Build configuration list for PBXNativeTarget "ScrumdingerUITests" */;
+			buildConfigurationList = DDAAEFA42CA0BAAB00D8C529 /* Build configuration list for PBXNativeTarget "ScrumSyncUITests" */;
 			buildPhases = (
-				DDDD1B102C9F01B000AF8008 /* Sources */,
-				DDDD1B112C9F01B000AF8008 /* Frameworks */,
-				DDDD1B122C9F01B000AF8008 /* Resources */,
+				DDAAEF902CA0BAAB00D8C529 /* Sources */,
+				DDAAEF912CA0BAAB00D8C529 /* Frameworks */,
+				DDAAEF922CA0BAAB00D8C529 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				DDDD1B162C9F01B000AF8008 /* PBXTargetDependency */,
+				DDAAEF962CA0BAAB00D8C529 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				DDDD1B172C9F01B000AF8008 /* ScrumdingerUITests */,
+				DDAAEF972CA0BAAB00D8C529 /* ScrumSyncUITests */,
 			);
-			name = ScrumdingerUITests;
+			name = ScrumSyncUITests;
 			packageProductDependencies = (
 			);
-			productName = ScrumdingerUITests;
-			productReference = DDDD1B142C9F01B000AF8008 /* ScrumdingerUITests.xctest */;
+			productName = ScrumSyncUITests;
+			productReference = DDAAEF942CA0BAAB00D8C529 /* ScrumSyncUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		DDDD1AF22C9F01AD00AF8008 /* Project object */ = {
+		DDAAEF722CA0BAAA00D8C529 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1600;
 				LastUpgradeCheck = 1600;
 				TargetAttributes = {
-					DDDD1AF92C9F01AD00AF8008 = {
+					DDAAEF792CA0BAAA00D8C529 = {
 						CreatedOnToolsVersion = 16.0;
 					};
-					DDDD1B092C9F01B000AF8008 = {
+					DDAAEF892CA0BAAB00D8C529 = {
 						CreatedOnToolsVersion = 16.0;
-						TestTargetID = DDDD1AF92C9F01AD00AF8008;
+						TestTargetID = DDAAEF792CA0BAAA00D8C529;
 					};
-					DDDD1B132C9F01B000AF8008 = {
+					DDAAEF932CA0BAAB00D8C529 = {
 						CreatedOnToolsVersion = 16.0;
-						TestTargetID = DDDD1AF92C9F01AD00AF8008;
+						TestTargetID = DDAAEF792CA0BAAA00D8C529;
 					};
 				};
 			};
-			buildConfigurationList = DDDD1AF52C9F01AD00AF8008 /* Build configuration list for PBXProject "Scrumdinger" */;
+			buildConfigurationList = DDAAEF752CA0BAAA00D8C529 /* Build configuration list for PBXProject "ScrumSync" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = DDDD1AF12C9F01AD00AF8008;
+			mainGroup = DDAAEF712CA0BAAA00D8C529;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = DDDD1AFB2C9F01AD00AF8008 /* Products */;
+			productRefGroup = DDAAEF7B2CA0BAAA00D8C529 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DDDD1AF92C9F01AD00AF8008 /* Scrumdinger */,
-				DDDD1B092C9F01B000AF8008 /* ScrumdingerTests */,
-				DDDD1B132C9F01B000AF8008 /* ScrumdingerUITests */,
+				DDAAEF792CA0BAAA00D8C529 /* ScrumSync */,
+				DDAAEF892CA0BAAB00D8C529 /* ScrumSyncTests */,
+				DDAAEF932CA0BAAB00D8C529 /* ScrumSyncUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		DDDD1AF82C9F01AD00AF8008 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				DDE33C4B2CA0B74E007D17F2 /* README.md in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		DDDD1B082C9F01B000AF8008 /* Resources */ = {
+		DDAAEF782CA0BAAA00D8C529 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		DDDD1B122C9F01B000AF8008 /* Resources */ = {
+		DDAAEF882CA0BAAB00D8C529 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DDAAEF922CA0BAAB00D8C529 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -239,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		DDDD1AF62C9F01AD00AF8008 /* Sources */ = {
+		DDAAEF762CA0BAAA00D8C529 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		DDDD1B062C9F01B000AF8008 /* Sources */ = {
+		DDAAEF862CA0BAAB00D8C529 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		DDDD1B102C9F01B000AF8008 /* Sources */ = {
+		DDAAEF902CA0BAAB00D8C529 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -263,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		DDDD1B0C2C9F01B000AF8008 /* PBXTargetDependency */ = {
+		DDAAEF8C2CA0BAAB00D8C529 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = DDDD1AF92C9F01AD00AF8008 /* Scrumdinger */;
-			targetProxy = DDDD1B0B2C9F01B000AF8008 /* PBXContainerItemProxy */;
+			target = DDAAEF792CA0BAAA00D8C529 /* ScrumSync */;
+			targetProxy = DDAAEF8B2CA0BAAB00D8C529 /* PBXContainerItemProxy */;
 		};
-		DDDD1B162C9F01B000AF8008 /* PBXTargetDependency */ = {
+		DDAAEF962CA0BAAB00D8C529 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = DDDD1AF92C9F01AD00AF8008 /* Scrumdinger */;
-			targetProxy = DDDD1B152C9F01B000AF8008 /* PBXContainerItemProxy */;
+			target = DDAAEF792CA0BAAA00D8C529 /* ScrumSync */;
+			targetProxy = DDAAEF952CA0BAAB00D8C529 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		DDDD1B1C2C9F01B000AF8008 /* Debug */ = {
+		DDAAEF9C2CA0BAAB00D8C529 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -339,7 +332,7 @@
 			};
 			name = Debug;
 		};
-		DDDD1B1D2C9F01B000AF8008 /* Release */ = {
+		DDAAEF9D2CA0BAAB00D8C529 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -395,14 +388,14 @@
 			};
 			name = Release;
 		};
-		DDDD1B1F2C9F01B000AF8008 /* Debug */ = {
+		DDAAEF9F2CA0BAAB00D8C529 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Scrumdinger/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"ScrumSync/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -415,7 +408,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = johncarlos.Scrumdinger;
+				PRODUCT_BUNDLE_IDENTIFIER = johncarlos.ScrumSync;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -423,14 +416,14 @@
 			};
 			name = Debug;
 		};
-		DDDD1B202C9F01B000AF8008 /* Release */ = {
+		DDAAEFA02CA0BAAB00D8C529 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Scrumdinger/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"ScrumSync/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -443,7 +436,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = johncarlos.Scrumdinger;
+				PRODUCT_BUNDLE_IDENTIFIER = johncarlos.ScrumSync;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -451,7 +444,7 @@
 			};
 			name = Release;
 		};
-		DDDD1B222C9F01B000AF8008 /* Debug */ = {
+		DDAAEFA22CA0BAAB00D8C529 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -460,16 +453,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = johncarlos.ScrumdingerTests;
+				PRODUCT_BUNDLE_IDENTIFIER = johncarlos.ScrumSyncTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Scrumdinger.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Scrumdinger";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ScrumSync.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ScrumSync";
 			};
 			name = Debug;
 		};
-		DDDD1B232C9F01B000AF8008 /* Release */ = {
+		DDAAEFA32CA0BAAB00D8C529 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -478,87 +471,87 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = johncarlos.ScrumdingerTests;
+				PRODUCT_BUNDLE_IDENTIFIER = johncarlos.ScrumSyncTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Scrumdinger.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Scrumdinger";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ScrumSync.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ScrumSync";
 			};
 			name = Release;
 		};
-		DDDD1B252C9F01B000AF8008 /* Debug */ = {
+		DDAAEFA52CA0BAAB00D8C529 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = johncarlos.ScrumdingerUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = johncarlos.ScrumSyncUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = Scrumdinger;
+				TEST_TARGET_NAME = ScrumSync;
 			};
 			name = Debug;
 		};
-		DDDD1B262C9F01B000AF8008 /* Release */ = {
+		DDAAEFA62CA0BAAB00D8C529 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = johncarlos.ScrumdingerUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = johncarlos.ScrumSyncUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = Scrumdinger;
+				TEST_TARGET_NAME = ScrumSync;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DDDD1AF52C9F01AD00AF8008 /* Build configuration list for PBXProject "Scrumdinger" */ = {
+		DDAAEF752CA0BAAA00D8C529 /* Build configuration list for PBXProject "ScrumSync" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DDDD1B1C2C9F01B000AF8008 /* Debug */,
-				DDDD1B1D2C9F01B000AF8008 /* Release */,
+				DDAAEF9C2CA0BAAB00D8C529 /* Debug */,
+				DDAAEF9D2CA0BAAB00D8C529 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DDDD1B1E2C9F01B000AF8008 /* Build configuration list for PBXNativeTarget "Scrumdinger" */ = {
+		DDAAEF9E2CA0BAAB00D8C529 /* Build configuration list for PBXNativeTarget "ScrumSync" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DDDD1B1F2C9F01B000AF8008 /* Debug */,
-				DDDD1B202C9F01B000AF8008 /* Release */,
+				DDAAEF9F2CA0BAAB00D8C529 /* Debug */,
+				DDAAEFA02CA0BAAB00D8C529 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DDDD1B212C9F01B000AF8008 /* Build configuration list for PBXNativeTarget "ScrumdingerTests" */ = {
+		DDAAEFA12CA0BAAB00D8C529 /* Build configuration list for PBXNativeTarget "ScrumSyncTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DDDD1B222C9F01B000AF8008 /* Debug */,
-				DDDD1B232C9F01B000AF8008 /* Release */,
+				DDAAEFA22CA0BAAB00D8C529 /* Debug */,
+				DDAAEFA32CA0BAAB00D8C529 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DDDD1B242C9F01B000AF8008 /* Build configuration list for PBXNativeTarget "ScrumdingerUITests" */ = {
+		DDAAEFA42CA0BAAB00D8C529 /* Build configuration list for PBXNativeTarget "ScrumSyncUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DDDD1B252C9F01B000AF8008 /* Debug */,
-				DDDD1B262C9F01B000AF8008 /* Release */,
+				DDAAEFA52CA0BAAB00D8C529 /* Debug */,
+				DDAAEFA62CA0BAAB00D8C529 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = DDDD1AF22C9F01AD00AF8008 /* Project object */;
+	rootObject = DDAAEF722CA0BAAA00D8C529 /* Project object */;
 }
