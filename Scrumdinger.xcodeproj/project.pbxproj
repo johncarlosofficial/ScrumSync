@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		DDE33C4B2CA0B74E007D17F2 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = DDE33C4A2CA0B74E007D17F2 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		DDDD1B0B2C9F01B000AF8008 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		DDDD1AFA2C9F01AD00AF8008 /* Scrumdinger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Scrumdinger.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DDDD1B0A2C9F01B000AF8008 /* ScrumdingerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ScrumdingerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DDDD1B142C9F01B000AF8008 /* ScrumdingerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ScrumdingerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		DDE33C4A2CA0B74E007D17F2 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +80,7 @@
 		DDDD1AF12C9F01AD00AF8008 = {
 			isa = PBXGroup;
 			children = (
+				DDE33C4A2CA0B74E007D17F2 /* README.md */,
 				DDDD1AFC2C9F01AD00AF8008 /* Scrumdinger */,
 				DDDD1B0D2C9F01B000AF8008 /* ScrumdingerTests */,
 				DDDD1B172C9F01B000AF8008 /* ScrumdingerUITests */,
@@ -212,6 +218,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DDE33C4B2CA0B74E007D17F2 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
