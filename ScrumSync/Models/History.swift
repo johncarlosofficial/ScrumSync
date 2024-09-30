@@ -2,12 +2,12 @@
 //  History.swift
 //  ScrumSync
 //
-//  Created by João Carlos Magalhães on 27/09/24.
+//  Created by John Carlos on 27/09/24.
 //
 
 import Foundation
 
-struct History: Identifiable {
+struct History: Identifiable, Codable {
     let id: UUID
     let date: Date
     var attendees: [DailyScrum.Attendee]
